@@ -1,3 +1,4 @@
+### continuação do mod do [TOHE+ by KOPP56](https://github.com/Kopp56-PRO/TOHE-BY-KOPP56)
 # COMO INSTALAR:
 
 1. Faça download do TOHK-R
